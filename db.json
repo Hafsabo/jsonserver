@@ -1,60 +1,90 @@
 [
-    {
-      SubValue: "AA",
-      IdClient: "In-1",
-      ID: "1",
-      Groupe: 'Groupe1',
-      name: 'Hydrogen',
-      pays: 'Maroc', rue: 1.0079, CodePostal: '425743',ville: 'Tanger'
-    },
-    {
-      SubValue: "BB",
-      IdClient: "In-2",
-      ID: "2",
-      Groupe: 'Groupe3',
-      name: 'Helium',pays: 'Maroc', rue: 1.0079, CodePostal: '20000',ville: 'Casa'
-    },
-    {
-      SubValue: "CC",
-      IdClient: "In-2",
-      Groupe: 'Groupe2',
-      ID: "2",
-      name: 'Lithium',pays: 'Tunisie', rue: 1.0079, CodePostal: '35242',ville: 'Rabat'
-    },
-    {
-      SubValue: "DD",
-      IdClient: "In-1",
-      Groupe: 'Groupe1',
-      ID: "1",
-      name: 'Carbon',pays: 'Maroc', rue: 1.0079, CodePostal: '75743',ville: 'Casa'
-    },
-    {
-      SubValue: "CD",
-      IdClient: "In-1",
-      Groupe: 'Groupe9',
-      ID: "3",
-      name: 'Oxygen',pays: 'Tunisie', rue: 1.0079, CodePostal: '90000',ville: 'Mohammedia'
-    },
-    {
-      SubValue: "GH",
-      IdClient: "In-1",
-      Groupe: 'Groupe4',
-      ID: "4",
-      name: 'Nitrogen',pays: 'Tunisie', rue: 1.0079, CodePostal: '75763',ville: 'Ifrane'
-    },
-    {
-      SubValue: "HH",
-      IdClient: "In-1",
-      Groupe: 'Groupe2',
-      ID: "6",
-      name: 'Silicon',pays: 'Algerie', rue: 1.0079, CodePostal: '75757',ville: 'Guelmim'
-    },
-    {
-      SubValue: "HA",
-      IdClient: "In-1",
-      Groupe: 'Groupe7',
-      ID: "7",
-      name: 'Calcium',pays: 'Espagne', rue: 1.0079, CodePostal: '12452',ville: 'Tanger'
-    }
-
-  ]
+   {
+      "SubValue":"AA",
+      "IdClient":"In-1",
+      "ID":"1",
+      "Groupe":"Groupe1",
+      "name":"Hydrogen",
+      "pays":"Maroc",
+      "rue":1.0079,
+      "CodePostal":"425743",
+      "ville":"Tanger"
+   },
+   {
+      "SubValue":"BB",
+      "IdClient":"In-2",
+      "ID":"2",
+      "Groupe":"Groupe3",
+      "name":"Helium",
+      "pays":"Maroc",
+      "rue":1.0079,
+      "CodePostal":"20000",
+      "ville":"Casa"
+   },
+   {
+      "SubValue":"CC",
+      "IdClient":"In-2",
+      "Groupe":"Groupe2",
+      "ID":"2",
+      "name":"Lithium",
+      "pays":"Tunisie",
+      "rue":1.0079,
+      "CodePostal":"35242",
+      "ville":"Rabat"
+   },
+   {
+      "SubValue":"DD",
+      "IdClient":"In-1",
+      "Groupe":"Groupe1",
+      "ID":"1",
+      "name":"Carbon",
+      "pays":"Maroc",
+      "rue":1.0079,
+      "CodePostal":"75743",
+      "ville":"Casa"
+   },
+   {
+      "SubValue":"CD",
+      "IdClient":"In-1",
+      "Groupe":"Groupe9",
+      "ID":"3",
+      "name":"Oxygen",
+      "pays":"Tunisie",
+      "rue":1.0079,
+      "CodePostal":"90000",
+      "ville":"Mohammedia"
+   },
+   {
+      "SubValue":"GH",
+      "IdClient":"In-1",
+      "Groupe":"Groupe4",
+      "ID":"4",
+      "name":"Nitrogen",
+      "pays":"Tunisie",
+      "rue":1.0079,
+      "CodePostal":"75763",
+      "ville":"Ifrane"
+   },
+   {
+      "SubValue":"HH",
+      "IdClient":"In-1",
+      "Groupe":"Groupe2",
+      "ID":"6",
+      "name":"Silicon",
+      "pays":"Algerie",
+      "rue":1.0079,
+      "CodePostal":"75757",
+      "ville":"Guelmim"
+   },
+   {
+      "SubValue":"HA",
+      "IdClient":"In-1",
+      "Groupe":"Groupe7",
+      "ID":"7",
+      "name":"Calcium",
+      "pays":"Espagne",
+      "rue":1.0079,
+      "CodePostal":"12452",
+      "ville":"Tanger"
+   }
+]";"
