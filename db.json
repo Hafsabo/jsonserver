@@ -1,4 +1,6 @@
-[
+
+{
+  "posts":[
    {
       "SubValue":"AA",
       "IdClient":"In-1",
@@ -88,3 +90,5 @@
       "ville":"Tanger"
    }
 ]
+   
+}
