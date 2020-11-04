@@ -10,7 +10,8 @@
       "pays":"Maroc",
       "rue":1.0079,
       "CodePostal":"425743",
-      "ville":"Tanger"
+      "ville":"Tanger",
+     "statut":"active"
    },
    {
       "SubValue":"BB",
@@ -21,7 +22,8 @@
       "pays":"Maroc",
       "rue":1.0079,
       "CodePostal":"20000",
-      "ville":"Casa"
+      "ville":"Casa",
+     "statut":"active"
    },
    {
       "SubValue":"CC",
@@ -32,7 +34,8 @@
       "pays":"Tunisie",
       "rue":1.0079,
       "CodePostal":"35242",
-      "ville":"Rabat"
+      "ville":"Rabat",
+     "statut":"inactive"
    },
    {
       "SubValue":"DD",
@@ -43,7 +46,8 @@
       "pays":"Maroc",
       "rue":1.0079,
       "CodePostal":"75743",
-      "ville":"Casa"
+      "ville":"Casa",
+     "statut":"inactive"
    },
    {
       "SubValue":"CD",
@@ -54,7 +58,8 @@
       "pays":"Tunisie",
       "rue":1.0079,
       "CodePostal":"90000",
-      "ville":"Mohammedia"
+      "ville":"Mohammedia",
+     "statut":"active"
    },
    {
       "SubValue":"GH",
@@ -65,7 +70,8 @@
       "pays":"Tunisie",
       "rue":1.0079,
       "CodePostal":"75763",
-      "ville":"Ifrane"
+      "ville":"Ifrane",
+     "statut":"active"
    },
    {
       "SubValue":"HH",
@@ -76,7 +82,8 @@
       "pays":"Algerie",
       "rue":1.0079,
       "CodePostal":"75757",
-      "ville":"Guelmim"
+      "ville":"Guelmim",
+     "statut":"inactive"
    },
    {
       "SubValue":"HA",
@@ -87,7 +94,8 @@
       "pays":"Espagne",
       "rue":1.0079,
       "CodePostal":"12452",
-      "ville":"Tanger"
+      "ville":"Tanger",
+     "statut":"active"
    }
 ]
    
