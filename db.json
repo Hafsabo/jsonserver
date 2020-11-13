@@ -14,8 +14,8 @@
      "statut":"active",
      "typeExport":"Excel",
      "dateCreation":"11-11-2020",
-     "date":"01-01-2030"
-     
+     "date":"01-01-2030",
+      "progres":"50"
    },
    {
       "SubValue":"BB",
@@ -30,7 +30,8 @@
      "statut":"active",
      "typeExport":"Pdf",
      "dateCreation":"11-12-2020",
-     "date":"13-11-2020"
+     "date":"13-11-2020",
+      "progres":"60"
    },
    {
       "SubValue":"CC",
@@ -45,7 +46,8 @@
      "statut":"inactive",
      "typeExport":"Excel",
      "dateCreation":"01-07-2019",
-     "date":"20-11-2020"
+     "date":"20-11-2020",
+      "progres":"30"
    },
    {
       "SubValue":"DD",
@@ -60,7 +62,8 @@
      "statut":"inactive",
      "typeExport":"Excel",
      "dateCreation":"13-11-2019",
-     "date":"11-11-2016"
+     "date":"11-11-2016",
+      "progres":"55"
    },
    {
       "SubValue":"CD",
@@ -75,7 +78,8 @@
      "statut":"active",
      "typeExport":"Pdf",
      "dateCreation":"27-07-2014",
-     "date":"10-05-2015"
+     "date":"10-05-2015",
+      "progres":"75"
    },
    {
       "SubValue":"GH",
@@ -90,7 +94,8 @@
      "statut":"active",
      "typeExport":"Pdf",
      "dateCreation":"13-11-2019",
-     "date":"20-08-2018"
+     "date":"20-08-2018",
+      "progres":"85"
    },
    {
       "SubValue":"HH",
@@ -105,7 +110,8 @@
      "statut":"inactive",
      "typeExport":"Excel",
      "dateCreation":"27-12-2019",
-     "date":"13-12-2020"
+     "date":"13-12-2020",
+      "progres":"90"
    },
    {
       "SubValue":"HA",
@@ -120,7 +126,8 @@
      "statut":"active",
      "typeExport":"Pdf",
      "dateCreation":"13-11-2019",
-     "date":"27-07-2020"
+     "date":"27-07-2020",
+      "progres":"100"
    }
 ]
    
