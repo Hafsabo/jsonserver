@@ -11,7 +11,11 @@
       "rue":1.0079,
       "CodePostal":"425743",
       "ville":"Tanger",
-     "statut":"active"
+     "statut":"active",
+     "typeExport":"Excel",
+     "dateCreation":"11-11-2020",
+     "date":"01-01-2030"
+     
    },
    {
       "SubValue":"BB",
@@ -23,7 +27,10 @@
       "rue":1.0079,
       "CodePostal":"20000",
       "ville":"Casa",
-     "statut":"active"
+     "statut":"active",
+     "typeExport":"Pdf",
+     "dateCreation":"11-12-2020",
+     "date":"13-11-2020"
    },
    {
       "SubValue":"CC",
@@ -35,7 +42,10 @@
       "rue":1.0079,
       "CodePostal":"35242",
       "ville":"Rabat",
-     "statut":"inactive"
+     "statut":"inactive",
+     "typeExport":"Excel",
+     "dateCreation":"01-07-2019",
+     "date":"20-11-2020"
    },
    {
       "SubValue":"DD",
@@ -47,7 +57,10 @@
       "rue":1.0079,
       "CodePostal":"75743",
       "ville":"Casa",
-     "statut":"inactive"
+     "statut":"inactive",
+     "typeExport":"Excel",
+     "dateCreation":"13-11-2019",
+     "date":"11-11-2016"
    },
    {
       "SubValue":"CD",
@@ -59,7 +72,10 @@
       "rue":1.0079,
       "CodePostal":"90000",
       "ville":"Mohammedia",
-     "statut":"active"
+     "statut":"active",
+     "typeExport":"Pdf",
+     "dateCreation":"27-07-2014",
+     "date":"10-05-2015"
    },
    {
       "SubValue":"GH",
@@ -71,7 +87,10 @@
       "rue":1.0079,
       "CodePostal":"75763",
       "ville":"Ifrane",
-     "statut":"active"
+     "statut":"active",
+     "typeExport":"Pdf",
+     "dateCreation":"13-11-2019",
+     "date":"20-08-2018"
    },
    {
       "SubValue":"HH",
@@ -83,7 +102,10 @@
       "rue":1.0079,
       "CodePostal":"75757",
       "ville":"Guelmim",
-     "statut":"inactive"
+     "statut":"inactive",
+     "typeExport":"Excel",
+     "dateCreation":"27-12-2019",
+     "date":"13-12-2020"
    },
    {
       "SubValue":"HA",
@@ -95,7 +117,10 @@
       "rue":1.0079,
       "CodePostal":"12452",
       "ville":"Tanger",
-     "statut":"active"
+     "statut":"active",
+     "typeExport":"Pdf",
+     "dateCreation":"13-11-2019",
+     "date":"27-07-2020"
    }
 ]
    
