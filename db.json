@@ -1,4 +1,4 @@
-
+ 
 {
   "posts":[
    {
@@ -15,7 +15,13 @@
      "typeExport":"Excel",
      "dateCreation":"11-11-2020",
      "date":"01-01-2030",
-      "progres":"50"
+      "progres":"50",
+     "contact":[
+            {
+            "latitude":30.129188,
+               "longitude":-9.552752
+            } 
+         ]
    },
    {
       "SubValue":"BB",
@@ -31,7 +37,13 @@
      "typeExport":"Pdf",
      "dateCreation":"11-12-2020",
      "date":"13-11-2020",
-      "progres":"60"
+      "progres":"60",
+     "contact":[
+            {
+                 "latitude":30.129185,
+               "longitude":-9.552752
+            } 
+         ]
    },
    {
       "SubValue":"CC",
@@ -47,7 +59,13 @@
      "typeExport":"Excel",
      "dateCreation":"01-07-2019",
      "date":"20-11-2020",
-      "progres":"30"
+      "progres":"30",
+     "contact":[
+            {
+             "latitude":30.127368,
+               "longitude":-9.553743
+            } 
+         ]
    },
    {
       "SubValue":"DD",
@@ -63,7 +81,13 @@
      "typeExport":"Excel",
      "dateCreation":"13-11-2019",
      "date":"11-11-2016",
-      "progres":"55"
+      "progres":"55",
+       "contact":[
+            {
+             "latitude":30.127368,
+               "longitude":-9.553743
+            } 
+         ]
    },
    {
       "SubValue":"CD",
@@ -79,7 +103,13 @@
      "typeExport":"Pdf",
      "dateCreation":"27-07-2014",
      "date":"10-05-2015",
-      "progres":"75"
+      "progres":"75",
+       "contact":[
+            {
+             "latitude":30.127368,
+               "longitude":-9.553743
+            } 
+         ]
    },
    {
       "SubValue":"GH",
@@ -95,7 +125,13 @@
      "typeExport":"Pdf",
      "dateCreation":"13-11-2019",
      "date":"20-08-2018",
-      "progres":"85"
+      "progres":"85",
+       "contact":[
+            {
+             "latitude":30.127368,
+               "longitude":-9.553743
+            } 
+         ]
    },
    {
       "SubValue":"HH",
@@ -111,7 +147,13 @@
      "typeExport":"Excel",
      "dateCreation":"27-12-2019",
      "date":"13-12-2020",
-      "progres":"90"
+      "progres":"90",
+       "contact":[
+            {
+             "latitude":30.127368,
+               "longitude":-9.553743
+            } 
+         ]
    },
    {
       "SubValue":"HA",
@@ -127,7 +169,13 @@
      "typeExport":"Pdf",
      "dateCreation":"13-11-2019",
      "date":"27-07-2020",
-      "progres":"100"
+      "progres":"100",
+       "contact":[
+            {
+             "latitude":30.127368,
+               "longitude":-9.553743
+            } 
+         ]
    }
 ]
    
