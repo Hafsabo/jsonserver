@@ -40,7 +40,7 @@
       "progres":"60",
      "contact":[
             {
-                 "latitude":30.129185,
+                 "latitude":35.129185,
                "longitude":-9.552752
             } 
          ]
@@ -62,7 +62,7 @@
       "progres":"30",
      "contact":[
             {
-             "latitude":30.127368,
+             "latitude":40.127368,
                "longitude":-9.553743
             } 
          ]
@@ -84,7 +84,7 @@
       "progres":"55",
        "contact":[
             {
-             "latitude":30.127368,
+             "latitude":45.127368,
                "longitude":-9.553743
             } 
          ]
@@ -106,7 +106,7 @@
       "progres":"75",
        "contact":[
             {
-             "latitude":30.127368,
+             "latitude":50.127368,
                "longitude":-9.553743
             } 
          ]
@@ -128,7 +128,7 @@
       "progres":"85",
        "contact":[
             {
-             "latitude":30.127368,
+             "latitude":70.127368,
                "longitude":-9.553743
             } 
          ]
@@ -150,7 +150,7 @@
       "progres":"90",
        "contact":[
             {
-             "latitude":30.127368,
+             "latitude":60.127368,
                "longitude":-9.553743
             } 
          ]
@@ -172,7 +172,7 @@
       "progres":"100",
        "contact":[
             {
-             "latitude":30.127368,
+             "latitude":50.127368,
                "longitude":-9.553743
             } 
          ]
