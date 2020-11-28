@@ -18,8 +18,10 @@
       "progres":"50",
      "contact":[
             {
-            "latitude":30.129188,
-               "longitude":-9.552752
+              "lat":30.127371,
+   "lng":-9.553743,
+   "label":"A",
+   "draggable":false
             } 
          ]
    },
@@ -40,8 +42,10 @@
       "progres":"60",
      "contact":[
             {
-                 "latitude":35.129185,
-               "longitude":-9.552752
+           "lat":30.127334,
+   "lng":-9.553775,
+   "label":"B",
+   "draggable":false
             } 
          ]
    },
@@ -62,8 +66,10 @@
       "progres":"30",
      "contact":[
             {
-             "latitude":40.127368,
-               "longitude":-9.553743
+            "lat":30.127360,
+   "lng":-9.553795,
+   "label":"C",
+   "draggable":false
             } 
          ]
    },
@@ -83,9 +89,10 @@
      "date":"11-11-2016",
       "progres":"55",
        "contact":[
-            {
-             "latitude":45.127368,
-               "longitude":-9.553743
+            { "lat":30.12719,
+   "lng":-9.553279,
+   "label":"D",
+   "draggable":false
             } 
          ]
    },
@@ -106,8 +113,10 @@
       "progres":"75",
        "contact":[
             {
-             "latitude":50.127368,
-               "longitude":-9.553743
+           "lat":30.12734,
+   "lng":-9.553289,
+   "label":"D",
+   "draggable":false
             } 
          ]
    },
@@ -128,8 +137,10 @@
       "progres":"85",
        "contact":[
             {
-             "latitude":70.127368,
-               "longitude":-9.553743
+             "lat":30.12747,
+   "lng":-9.553300,
+   "label":"D",
+   "draggable":false
             } 
          ]
    },
@@ -150,8 +161,10 @@
       "progres":"90",
        "contact":[
             {
-             "latitude":60.127368,
-               "longitude":-9.553743
+              "lat":30.12788,
+   "lng":-9.553400,
+   "label":"D",
+   "draggable":false
             } 
          ]
    },
@@ -171,9 +184,10 @@
      "date":"27-07-2020",
       "progres":"100",
        "contact":[
-            {
-             "latitude":50.127368,
-               "longitude":-9.553743
+            { "lat":30.12789,
+   "lng":-9.553405,
+   "label":"G",
+   "draggable":false
             } 
          ]
    }
